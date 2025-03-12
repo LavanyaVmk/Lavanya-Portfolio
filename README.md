@@ -1,12 +1,9 @@
-# Lavanya-Portfolio
-A Portfolio Website To Showcase My Data Science And Machine Learning Projects, Skills, Achievements.
-
-# 🌟 Lavanya-Portfolio 🚀  
+#  Lavanya-Portfolio   
 _A Portfolio Website to Showcase My Data Science & Machine Learning Projects, Skills, and Achievements._
 
 <img src="https://github.com/LavanyaVmk/Lavanya-Portfolio/blob/main/images/profile-pic.jpg" width="150" height="150" align="right">
 
-## 👩‍💻 About Me  
+##  About Me  
 Hi, I'm **Lavanya!** A passionate **Data Scientist** with expertise in **Machine Learning, Python, SQL, Power BI, and Data Visualization.**  
 I love solving complex problems and turning data into meaningful insights.  
 
