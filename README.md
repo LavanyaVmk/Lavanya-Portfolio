@@ -18,7 +18,7 @@
 
 ## 🚀 **Projects**  
 
-### 📊 [1. Laptop Price Prediction](https://github.com/yourusername/laptop-price-prediction)  
+### 📊 [1. Laptop Price Prediction](https://github.com/LavanyaVmk/laptop-price-prediction)  
 
 🔹 Built a **Machine Learning model** to predict laptop prices for SmartTech Co.
 
@@ -27,6 +27,8 @@
 🔹 Applied **Random Forest & Gradient Boosting models**, achieving high accuracy. 
 
 🔹 Deployed using **Streamlit**, enabling real-time predictions.  
+
+🔹 **[Live Demo](https://laptop-price-prediction-for-smarttech.streamlit.app/)**  
 
 ---
 
